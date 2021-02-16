@@ -3,8 +3,18 @@
 ## Chapters
 
 ### 1. What is data science?
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+```python
+print("Hiya!")
+```
+
 ### 2. Data collection
 #### 2.1 Selection bias
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
 ### 3. Data preprocessing
 #### 3.1 Normalization
 #### 3.2 Imputation
@@ -17,9 +27,6 @@
 #### 6.2 Linear regression
 #### 6.3 ...
 
-```python
-print("Hiya!")
-```
 
 
 You can use the [editor on GitHub](https://github.com/JonnaBuri/ids2021/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
