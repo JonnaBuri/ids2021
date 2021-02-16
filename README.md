@@ -3,20 +3,35 @@
 Chapters
 
 1. What is data science?
+
 2. Data collection
+
 2.1 Selection bias
+
 3. Data preprocessing
+
 3.1 Normalization
+
 3.2 Imputation
+
 4. What questions can we answer with data?
+
 5. Communication of results
+
 5.1 Visualizations
+
 5.2 Geographical data and maps
+
 6. Machine learning
+
 6.1 Machine learning settings
+
 6.2 Linear regression
+
 6.3 Logistic regression
+
 6.4 Decision trees
+
 6.5 ...
 
 You can use the [editor on GitHub](https://github.com/JonnaBuri/ids2021/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
